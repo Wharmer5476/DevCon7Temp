@@ -1,0 +1,9 @@
+Was following the tutorial here:
+http://tympanus.net/codrops/2012/10/11/real-time-geolocation-service-with-node-js/
+
+Got up to the "THE CLIENT SIDE" heading, but got lost as I couldn't find the
+file they were talking about: "./public/js/application.js"
+
+Maybe we have to pull down the leaflet.js library?
+
+We could always just nick his working copy off his GitHub :D
